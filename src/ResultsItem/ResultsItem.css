@@ -1,0 +1,11 @@
+.results-container {
+     border-bottom: gray 1px solid;
+}
+
+.flex-container {
+    display: flex;
+}
+
+.img-container {
+    margin: 5px;
+}
